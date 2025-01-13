@@ -24,13 +24,7 @@ Model Evaluation:
 - Metrics Used: Evaluated models using Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 - Performance Comparison: Compared the performance of all models to identify the most accurate predictor.
 ## Results
-The evaluation metrics for each model are as follows:
-- Linear Regression:
-- Decision Tree Regression:
-- Random Forest Regression:
-- Support Vector Regression (SVR):
-- XGBoost Regression:
-- These results indicate that ensemble methods like Random Forest and XGBoost provide more accurate predictions compared to individual models.
+
 
 ## Conclusion
 This study demonstrates the effectiveness of machine learning algorithms in predicting COVID-19 cases and fatalities. Ensemble methods, particularly Random Forest and XGBoost, outperform individual models, suggesting their potential for accurate forecasting in public health applications. Future work could involve incorporating additional features, such as vaccination rates and mobility data, to further enhance prediction accuracy.
